@@ -10,6 +10,8 @@ eleventyNavigation:
 ---
 ### Bio
 
+![Anthony Duk, MD](/src/assets/img/profile.jpeg)
+
 Vietnamese Roman Catholic general and adult psychiatrist practicing outpatient psychiatry.
 Likes to teach martial arts, exercise, go to shooting ranges, practice his faith, and lead bible study for students.
 
@@ -34,8 +36,6 @@ For those patients that are inclined, integrating their spirituality into their 
 
 * Spanish
 * Vietnamese
-
-
 
 ### Conditions Treated
 
