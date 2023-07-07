@@ -30,9 +30,21 @@ For those patients that are inclined, integrating their spirituality into their 
 * American College of Pediatricians(2016)
 * Alliance for Therapeutic Change and Scientific Integrity(2005)
 
-
-
 ### Languages Spoken
 
 * Spanish
 * Vietnamese
+
+
+
+### Conditions Treated
+
+* Major depressive disorder
+* Bipolar mood disorder
+* Schizophrenia
+* Generalized anxiety disorder
+* Attention deficit disorder
+* Dementia
+* Substance dependence
+* Personality disorders
+* Impulse control disorders
