@@ -12,8 +12,7 @@ eleventyNavigation:
 
 <img src="/assets/img/profile.jpeg" style="margin-top:0; padding-left:20px; width:150px; float:right">
 
-Vietnamese Roman Catholic general and adult psychiatrist practicing outpatient psychiatry.
-Likes to teach martial arts, exercise, go to shooting ranges, practice his faith, and lead bible study for students.
+Vietnamese Roman Catholic general and adult psychiatrist practicing outpatient psychiatry. Likes to teach martial arts, exercise, go to shooting ranges, practice his faith, and lead bible study for students.
 
 For those patients that are inclined, integrating their spirituality into their psychiatric treatment is helpful for understanding how to handle marital problems, endure pain and find meaning in life.
 
