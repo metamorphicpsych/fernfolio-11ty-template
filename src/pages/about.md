@@ -10,7 +10,7 @@ eleventyNavigation:
 ---
 ### Bio
 
-<img src="/assets/img/profile.jpeg" style="margin-top:0; padding-left:20px; width:150px; float:right">
+<img src="/assets/img/profile.jpeg" style="margin-top:0; margin-left:20px; width:150px; float:right; border-radius: 1em;">
 
 Vietnamese Roman Catholic general and adult psychiatrist practicing outpatient psychiatry. Likes to teach martial arts, exercise, go to shooting ranges, practice his faith, and lead bible study for students.
 
