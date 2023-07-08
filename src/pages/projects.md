@@ -1,12 +1,12 @@
 ---
 layout: projects.njk
-title: Projects
+title: Patients
+subtitle: Results from patient surveys and testimonials
+metaDescription: Patient testimonial page
 date: 2021-01-01
 permalink: /projects/index.html
-metaDescription: A sample Projects page
-subtitle: This is the page where all projects will live
 emoji: 💻
 eleventyNavigation:
-  key: Projects
+  key: Patients
   order: 3
 ---
