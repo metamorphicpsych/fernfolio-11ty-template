@@ -18,4 +18,4 @@ eleventyNavigation:
 
 <br>
 
-P﻿lease call to schedule an appointment.
+*<span style="float:center">P﻿lease call to schedule an appointment.</span>*
