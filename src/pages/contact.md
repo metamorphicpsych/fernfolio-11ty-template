@@ -10,11 +10,9 @@ eleventyNavigation:
   key: Contact
   order: 4
 ---
-| Address                                                 | Phone          |
-| ------------------------------------------------------- | -------------- |
-| 19510 Van Buren Blvd Ste F3, PMB 261 Riverside, CA 9250 | (909) 588-9275 |
-
-
+| Address                                                  | Phone          |
+| -------------------------------------------------------- | -------------- |
+| 19510 Van Buren Blvd Ste F3, PMB 261 Riverside, CA 92508 | (909) 588-9275 |
 
 <br>
 
