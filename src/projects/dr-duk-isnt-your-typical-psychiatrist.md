@@ -1,5 +1,5 @@
 ---
-title: Dr. Duk isn't your typical psychiatrist.
+title: Dr. Duk is not your typical psychiatrist
 emoji: ⭐⭐⭐⭐⭐
 date: 2023-08-01T20:45:16.818Z
 summary: "\"He's attentive, listens to your issues, provides useful information
