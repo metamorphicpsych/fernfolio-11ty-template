@@ -1,13 +1,10 @@
 ---
-title: Grateful for the help
+title: Great Doctor
 emoji: ⭐⭐⭐⭐⭐
 date: 2018-01-01T00:00:00.000Z
-summary: '"An excerpt from a testimonial"'
-metaDescription: This is a sample meta description. If one is not present in
-  your page/project's front matter, the default metadata.desciption will be used
-  instead.
+summary: '"Dr. Anthony Duk is an excellent psychiatrist. From the moment my
+  mother and I met Dr. Duk, we could tell he truly cares about his patients."'
+metaDescription: ""
 tags: []
 ---
-### Testimonial
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Dr. Anthony Duk is an excellent psychiatrist. From the moment my mother and I met Dr. Duk, we could tell he truly cares about his patients. My mother is extremely sensitive and felt comfortable with Dr. Duk. He creates a safe and non-judgmental environment. I appreciate his ability to make his patients feel comfortable and at ease. He is always understanding and takes his time to listen to our concerns and needs. I highly recommend Dr. Duk to anyone seeking psychiatric care. He is a wonderful doctor who truly cares about helping his patients achieve their best mental health. My mother's misdiagnoses in the past led to many unnecessary treatments and procedures. For many years I felt as if my mother was no longer here and I had to stop my life from a very young age to care for her. Words can't express how thankful I am for Dr. Duk. I can't thank him enough for properly diagnosing my mother. Not only did he make a difference in my mother's life, but also made a difference in mine.
