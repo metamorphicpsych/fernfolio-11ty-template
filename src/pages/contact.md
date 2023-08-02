@@ -17,6 +17,8 @@ eleventyNavigation:
 <h6>Phone</h6>
 909-588-9275
 
-<br>
+***
 
-<span style="align:center">P﻿lease call to schedule an appointment.</span>
+*<span style="align:center">P﻿lease call to schedule an appointment.</span>*
+
+***
