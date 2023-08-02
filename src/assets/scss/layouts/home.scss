@@ -65,10 +65,11 @@
 }
 
 .hero__title {
+  font-family: var(--font-family-title);
+  
   @media (min-width: 1024px) {
     margin-top: 0;
     font-size: 3em;
-    font-family: var(--font-family-title);
   }
 }
 
