@@ -63,7 +63,7 @@
   max-width: 300px;
   }
 
-  @media (max-width: 500px) {
+  @media (min-width: 500px) {
   margin-bottom: 0;
   max-width: 80vw;
   }
