@@ -2,7 +2,6 @@
 section: contact
 layout: contact.njk
 title: Contact
-subtitle: P﻿lease call to schedule an appointment
 metaDescription: Dr. Anthony Duk, MD | 1﻿9510 Van Buren Blvd Ste F3, PMB 261 Riverside, CA 92508
 date: 2018-01-01
 permalink: /contact/index.html
