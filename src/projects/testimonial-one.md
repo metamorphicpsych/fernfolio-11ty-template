@@ -4,7 +4,7 @@ emoji: ⭐⭐⭐⭐⭐
 date: 2023-03-22T23:00:00.000Z
 summary: |-
   "My son has Autism spectrum. And has been Dr. Duk for over 9 years"
-  Ines Kim - March 22, 2023
+  -IK
 metaDescription: ""
 tags: []
 ---
