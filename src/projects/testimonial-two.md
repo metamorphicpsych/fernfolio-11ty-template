@@ -7,7 +7,7 @@ summary: >-
   met Dr. Duk, we could tell he truly cares about his patients."
 
 
-  Jannet Coronel – Apr 01, 2023 
+  -JC
 metaDescription: ""
 tags: []
 ---
