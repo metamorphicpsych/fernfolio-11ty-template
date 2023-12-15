@@ -2,8 +2,8 @@
 title: Awesome human being
 emoji: ⭐⭐⭐⭐⭐
 date: 2023-12-15T00:47:37.580Z
-summary: Good counselor (surprise!) and a good medication manager. I really like
-  all his handouts. -JT
+summary: '"Good counselor (surprise!) and a good medication manager. I really
+  like all his handouts." -JT'
 tags: []
 ---
 Good counselor (surprise!) and a good medication manager. I really like all his handouts.
