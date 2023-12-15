@@ -4,7 +4,8 @@ emoji: ⭐⭐⭐⭐⭐
 date: 2019-08-26T23:45:10.446Z
 summary: '"I recommended him to all my college friends going through bad times."
   -Anonymous'
-tags: []
+tags:
+  - Healthgrades
 ---
 He is very quiet but listens well and gives good counsel. I like how he is not so quick to use medication as a solution to my problems but actually thinks I can do something about them or change how I think to help the situation. I recommended him to all my college friends going through bad times.
 
