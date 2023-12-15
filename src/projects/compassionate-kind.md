@@ -1,5 +1,5 @@
 ---
-title: Compassionate... kind
+title: Compassionate kind
 emoji: ⭐⭐⭐⭐⭐
 date: 2018-12-30T00:50:25.892Z
 summary: He has helped my through heart wrenching times in my life and made
