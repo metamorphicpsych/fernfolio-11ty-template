@@ -31,7 +31,7 @@ section: home
   </div>
   {% from "macros/projectlist.njk" import projectlist %}
   {{ projectlist(
-    projects = collections.project | slice(3),
+    projects = collections.project | limit(4),
     show_tags = false,
     limit = 3
   ) }}
