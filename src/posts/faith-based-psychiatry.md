@@ -10,13 +10,21 @@ tags:
 
 All of us face struggles and difficulties along the path of life. It's part of what it means to be human. Today, a very positive aspect of the conversation surrounding mental health is the desire to integrate modern findings from the psychological and psychiatric literature with traditional religious teachings and practices. Both medicine and faith share the same goal: to help guide us into leading healthy, fulfilling, and complete lives.
 
-But does this mean for you? Maybe you are struggling with your mental health, or with your faith life. Maybe you're at a moment in your life where there seems to be little hope, or reason to believe in a brighter future at all. While each of us are unique, we ultimately do share many common concerns. Questions that might seem impossible to answer right now. But both psychiatry and religion provide answers to those questions and concerns.
+But does this mean for you? 
+
+Maybe you are struggling with your mental health, or with your faith life. 
+
+Maybe you're at a moment in your life where there seems to be little hope, or reason to believe in a brighter future at all. 
+
+While each of us are unique, we ultimately do share many common concerns. Questions that might seem impossible to answer right now. But both psychiatry and religion provide answers to those questions and concerns.
 
 It is my strong belief that each of not only holds great potential, but also has a clear and tangible path forward toward better lives.
 
 
 
 ![](/src/assets/img/thomas-aquinas.jpg)
+
+> “For those with faith, no evidence is necessary; for those without it, no evidence will suffice.” —St. Thomas Aquinas
 
 ### Finding a Faith-Based Psychiatrist
 
