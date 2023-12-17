@@ -12,6 +12,10 @@
   display: none;
 
   @media (min-width: 1024px) {
+    background-image: linear-gradient(to left, rgba(0,0,0,0.6), rgba(2,61,87,1.0)),
+          url(/assets/img/background-sunset.jpg);
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
     display: block;
     position: absolute;
     left: auto;
