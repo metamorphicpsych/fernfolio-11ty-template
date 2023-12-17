@@ -18,6 +18,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addFilter('readableDate', readableDateFilter);
   eleventyConfig.addFilter('machineDate', machineDateFilter);
   eleventyConfig.addFilter('svg', svgFilter);
+  eleventyConfig.addNunjucksFilter("limit", (arr, limit) => arr.slice(0, limit));
 
   // Shortcodes
   eleventyConfig.addNunjucksAsyncShortcode('image', imageShortcode);
