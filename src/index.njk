@@ -30,7 +30,11 @@ section: home
     <a class="btn btn--outline btn--sm" href="/projects">View All</a>
   </div>
   {% from "macros/projectlist.njk" import projectlist %}
-  {% set projects = collections.project | limit(2) %}
+  {{ projectlist(
+    projects = collections.project | reverse,
+    show_tags = false,
+    limit = 3
+  ) }}
 
   {# Articles #}
   <div class="list-header">
