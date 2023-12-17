@@ -16,11 +16,13 @@ Dr. Anthony Duk, MD is a Vietnamese Roman Catholic general and adult psychiatris
 
 For those patients that are inclined, integrating their spirituality into their psychiatric treatment is helpful for understanding how to handle marital problems, endure pain and find meaning in life.
 
+Telepsychiatry available by appointment.
+
 ### Credentials
 
 |                  |                                              |
 | ---------------- | -------------------------------------------- |
-| Specialty        | Psychiatry                                   |
+| Specialty        | Psychiatry, Telepsychiatry                   |
 | Degrees Held     | MD, Loma Linda University School of Medicine |
 | Years Practicing | 18                                           |
 
