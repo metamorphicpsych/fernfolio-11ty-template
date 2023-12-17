@@ -31,9 +31,7 @@ section: home
   </div>
   {% from "macros/projectlist.njk" import projectlist %}
   {{ projectlist(
-    projects = collections.project | reverse | limit(4),
-    show_tags = false,
-    limit = 3
+    projects = collections.project | reverse | limit(4)
   ) }}
 
   {# Articles #}
